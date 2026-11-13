@@ -1,0 +1,1 @@
+wayland display info tool
